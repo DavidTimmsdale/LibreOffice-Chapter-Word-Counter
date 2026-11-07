@@ -1,0 +1,48 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+.venv/
+venv/
+env/
+# Logs, temporary files and editor state
+*.log
+*.log.*
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.~lock.*
+.DS_Store
+.idea/
+.vscode/
+# Disposable LibreOffice profiles
+*profile*/
+.config/libreoffice/
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+.netrc
+credentials*
+secrets*
+*.pem
+*.key
+# Build outputs and private development artifacts
+*.oxt
+*_source.zip
+SHA256SUMS
+build/
+dist/
+*.egg-info/
+original/
+test-results/
+.agents/
+.codex/

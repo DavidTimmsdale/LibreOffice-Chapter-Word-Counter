@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" oor:name="Controller" oor:package="org.openoffice.Office.UI">
+ <node oor:name="Registered"><node oor:name="StatusBar">
+  <node oor:name="org.dtimmsdale.chaptercounter.v09" oor:op="replace">
+   <prop oor:name="Command"><value>vnd.dtimmsdale.chaptercounter:statusbartest</value></prop>
+   <prop oor:name="Module"><value/></prop>
+   <prop oor:name="Controller"><value>org.dtimmsdale.chaptercounter.StatusControllerV09</value></prop>
+  </node>
+ </node></node>
+</oor:component-data>

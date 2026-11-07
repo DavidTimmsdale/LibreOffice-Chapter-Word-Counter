@@ -1,0 +1,1 @@
+Live chapter progress and total in the Writer status bar. Chapter headings are excluded. See README for counting rules and tests.
